@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silvery107&count_private=true&show_icons=true&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silvery107&layout=compact&exclude_repo=segway-locomotion-stm32,gatech-computer-vision,ME336-Yellow-Team-Project,advisor)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silvery107&layout=compact&exclude_repo=segway-locomotion-stm32,gatech-computer-vision,ME336-Yellow-Team-Project,advisor,academicpages.github.io)](https://github.com/anuraghazra/github-readme-stats)
