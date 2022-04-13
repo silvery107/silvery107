@@ -1,4 +1,4 @@
-![Profile View Counter](https://komarev.com/ghpvc/?username=silvery107&label=profile+view)
+![Profile View Counter](https://komarev.com/ghpvc/?username=silvery107)
 ![Total Stars](https://img.shields.io/github/stars/silvery107?style=social)
 
 ### Hi there 👋
