@@ -5,11 +5,14 @@
 
 ### This is Yulun (Arno) Zhuang  🦾
 
+- Robotics UG at SUSTech
+- Rich R&D experience on control and learning algorithms
+- Attending Michigan Robotics soon
+- Personal website at https://silvery107.github.io/
+
+
+
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silvery107&count_private=true&show_icons=true&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silvery107&layout=compact&langs_count=4&exclude_repo=segway-locomotion-stm32,gatech-computer-vision,ME336-Yellow-Team-Project)](https://github.com/anuraghazra/github-readme-stats)
 
-- Robotics UG at SUSTech
-- Rich R&D experience on control and learning algorithms.
-- Attending Michigan Robotics soon.
-- Personal website at https://silvery107.github.io/
