@@ -8,7 +8,7 @@
 - Robotics UG at SUSTech
 - Rich R&D experience on legged robots control and learning
 - Attending Michigan Robotics soon
-- Personal website at https://silvery107.github.io/
+- Personal website at (silvery107.github.io)[https://silvery107.github.io/]
 
 
 
