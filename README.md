@@ -5,9 +5,8 @@
 
 ### This is Yulun (Arno) Zhuang  🦾
 
-- Robotics UG at SUSTech
+- Robotics MS at UMich
 - Rich R&D experience on legged robots control and learning
-- Attending Michigan Robotics soon
 - Personal website at [silvery107.github.io](https://silvery107.github.io/)
 
 
