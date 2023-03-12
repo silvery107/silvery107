@@ -5,7 +5,7 @@
 
 ### This is Yulun (Arno) Zhuang  🦾
 
-- Robotics MS at University of Michigan
+- Robotics graduate student at University of Michigan
 - Rich R&D experience on legged robots control and learning
 - Personal website at [silvery107.github.io](https://silvery107.github.io/)
 
