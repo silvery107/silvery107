@@ -6,9 +6,9 @@
 
 ### This is Yulun Zhuang  🦾
 
-- Robotics graduate student at University of Michigan
-- Rich R&D experience on legged robots control and learning
-- Personal website at [silvery107.github.io](https://silvery107.github.io/)
+- 🤖 Robotics graduate student at University of Michigan
+- 🦿 Rich R&D experience on legged robots control and learning
+- 🌐 Personal website at [silvery107.github.io](https://silvery107.github.io/)
 
 
 <div align="left"> 
