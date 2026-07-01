@@ -2,9 +2,9 @@
 ![Total Stars](https://img.shields.io/github/stars/silvery107?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/silvery107?style=social)
 
-### Hi there 👋
+### 👋 Hi there
 
-### This is Yulun Zhuang  🦾
+### 🦾 This is Yulun Zhuang
 
 - 🤖 Robotics graduate student at University of Michigan
 - 🦿 Rich R&D experience on legged robots control and learning
