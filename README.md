@@ -1,6 +1,7 @@
-![Profile View Counter](https://komarev.com/ghpvc/?username=silvery107)
 ![Total Stars](https://img.shields.io/github/stars/silvery107?style=social)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Yulun%20Zhuang-4285F4?style=social&logo=googlescholar)](https://scholar.google.com/citations?user=z_gDNE0AAAAJ)
 ![GitHub followers](https://img.shields.io/github/followers/silvery107?style=social)
+![Profile View Counter](https://komarev.com/ghpvc/?username=silvery107)
 
 ### 👋 Hi there
 
